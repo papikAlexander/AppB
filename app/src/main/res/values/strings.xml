@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppB</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="error">Error</string>
+    <string name="textview">Это приложение не является самостоятельным и будет закрыто через </string>
+</resources>
